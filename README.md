@@ -16,8 +16,10 @@ CSS3
 JavaScript
 Boxicons for icons
 
-Live Demo
-View the preview ToDo List here.
+Live Preview
+You can see the ToDo List in action by clicking on the link below:
+[**Live Preview of ToDo List**](https://yetti02.github.io/To-Do-List/)
+
 
 User Experience
 The application has a clean and responsive interface, providing a smooth user experience across various devices. 
