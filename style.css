@@ -96,13 +96,16 @@ form{
     align-items: center;
     cursor: pointer;
 }
-.delete-button bx bxs-trash{
-    transition: 200ms ease;
-    
-}
-.delete-button:hover .bx.bxs-trash{
-    fill: #ff0033;
-}
+.delete-button i {  
+    font-size: 20px;   
+    color: inherit;   
+    transition: color 0.3s;  
+}  
+
+.delete-button:hover i {  
+    color: red;   
+}  
+
 .custom-checkbox{
     border: 2px solid var(--accent-color);
     border-radius: 50%;
